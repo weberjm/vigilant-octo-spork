@@ -1,0 +1,3 @@
+[submodule "openintegrationhub"]
+	path = openintegrationhub
+	url = https://www.github.com/openintegrationhub/openintegrationhub
